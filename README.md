@@ -56,7 +56,7 @@
 
 ## 📬 How to Reach Me
 
-- 🐱 GitHub: [github.com/your-username](https://github.com/saisudhaan08)  
+- 🐱 GitHub: [github.com/saisudhaan08](https://github.com/saisudhaan08)  
 - 📧 Email: your-email@example.com  
 - 🕵️‍♂️ Telegram / WhatsApp? Ask nicely.
 
