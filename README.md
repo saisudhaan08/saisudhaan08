@@ -57,7 +57,7 @@
 ## 📬 How to Reach Me
 
 - 🐱 GitHub: [github.com/saisudhaan08](https://github.com/saisudhaan08)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: saisudhaan@example.com  
 - 🕵️‍♂️ Telegram / WhatsApp? Ask nicely.
 
 ---
